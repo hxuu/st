@@ -1,9 +1,9 @@
 !! Transparency (0-1):
-st.alpha: 0.92
+st.alpha: 0.9
 st.alphaOffset: 0.3
 
 !! Set a default font and font size as below:
-st.font: Monospace-11;
+st.font: Monospace-16;
 
 ! st.termname: st-256color
 ! st.borderpx: 2
